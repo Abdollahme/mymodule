@@ -1,0 +1,2 @@
+<a href="https://login.uber.com/oauth/v2/authorize?client_id=<Client_id>&response_type=code&redirect_uri=<redirect_uri>" type="button" class="btn btn-outline-primary">Connection Uber</a>
+{*<button id="uberButton" type="button" class="btn btn-outline-primary">Connection Uber</button>*}
